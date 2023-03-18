@@ -1,7 +1,6 @@
 - Hi, I’m @Evance262 👋
 - 👀 I’m interested in Machine Learning and Software Architecture.
 - 🌱 I’m currently learning Deep Learning and Neural Networks
-- 💞️ I’m looking to collaborate on Enterprise systems development.
 - 📫 How to reach me: evancechapuma62@gmail.com
 
 Top Technologies
