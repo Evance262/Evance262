@@ -5,7 +5,7 @@
 ### AI Automation Specialist · n8n · Vapi · WhatsApp · CRM Integrations
 
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/evancechapuma)
-[![Email](https://img.shields.io/badge/Email-evance%40yourdomain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evancechapuma62@gmail.com)
+[![Email](https://img.shields.io/badge/Email-evance%40evancechapuma62@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evancechapuma62@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evance%20Chapuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evancechapuma)
 
 </div>
