@@ -45,42 +45,42 @@ I work primarily with:
 
 ## 🚀 Featured Projects
 
-### [Multi-Agent Google Review Responder](./automation-portfolio/n8n/google-review-responder)
+### [Multi-Agent Google Review Responder](./automation-portfolio/projects/google-review-responder)
 > Routes incoming Google reviews through a pipeline of specialized AI agents — a Negative Review Agent, Positive Review Agent, Revision Agent, and Text Classifier — to generate contextually appropriate, on-brand responses automatically.
 
 `n8n` `OpenAI` `Webhooks` `Multi-agent`
 
 ---
 
-### [WhatsApp Event Registration System](./automation-portfolio/n8n/whatsapp-event-registration)
+### [WhatsApp Event Registration System](./automation-portfolio/projects/whatsapp-event-registration)
 > End-to-end event registration via WhatsApp — handles conversational sign-up, payment screenshot verification using vision AI, bus seat assignment, and automated reminders. Built on n8n + Airtable + Twilio.
 
 `n8n` `Twilio` `Airtable` `Vision AI` `WhatsApp`
 
 ---
 
-### [Vapi Real Estate Booking Agent](./automation-portfolio/vapi/real-estate-booking-agent)
+### [Vapi Real Estate Booking Agent](./automation-portfolio/projects/real-estate-booking-agent)
 > An AI voice agent that handles inbound property inquiries, qualifies leads, and schedules viewings — with structured data extraction piped into a CRM via n8n webhooks.
 
 `Vapi` `n8n` `Voice AI` `CRM Integration`
 
 ---
 
-### [Multi-Agent Personal Assistant](./automation-portfolio/n8n/multi-agent-personal-assistant)
+### [Multi-Agent Personal Assistant](./automation-portfolio/projects/multi-agent-personal-assistant)
 > A self-hosted personal assistant that connects HubSpot, Gmail, Google Calendar, Twilio, and Telegram — triaging emails, scheduling meetings, sending SMS reminders, and surfacing CRM updates through a single Telegram interface.
 
 `n8n` `HubSpot` `Gmail` `Google Calendar` `Twilio` `Telegram`
 
 ---
 
-### [WhatsApp Lead Qualification Agent](./automation-portfolio/n8n/whatsapp-lead-agent)
+### [WhatsApp Lead Qualification Agent](./automation-portfolio/projects/whatsapp-lead-agent)
 > Conversational AI agent deployed on WhatsApp to engage inbound leads, qualify them with dynamic questions, and hand off warm leads to sales with a structured summary.
 
 `n8n` `WhatsApp` `OpenAI` `Lead Generation`
 
 ---
 
-### [Vapi Customer Support Agent](./automation-portfolio/vapi/customer-support-agent)
+### [Vapi Customer Support Agent](./automation-portfolio/projects/customer-support-agent)
 > Voice-based support agent with FAQ handling and escalation logic, integrated into a helpdesk workflow via webhook.
 
 `Vapi` `Voice AI` `n8n` `Customer Support`
