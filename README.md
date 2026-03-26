@@ -2,7 +2,7 @@
 
 # Hey, I'm Evance Chapuma 👋
 
-### AI Automation Specialist · n8n · Vapi · WhatsApp · CRM Integrations
+### AI Automation Expert | n8n Workflows, AI Agents & API Integrations
 
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/evancechapuma)
 [![Email](https://img.shields.io/badge/Email-evance%40evancechapuma62@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evancechapuma62@gmail.com)
