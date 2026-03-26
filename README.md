@@ -32,12 +32,12 @@ I work primarily with:
 | Category | Tools |
 |---|---|
 | **Workflow Automation** | n8n · Make (Integromat) · Zapier |
-| **AI & Agents** | OpenAI · Anthropic Claude · LangChain · Multi-agent systems |
-| **Voice AI** | Vapi · Twilio Voice |
+| **AI & Agents** | Anthropic Claude · OpenAI · LangChain · Multi-agent systems |
+| **Voice AI** | Vapi · Twilio Voice . Elevenlabs |
 | **Messaging** | WhatsApp Business API · Twilio SMS |
 | **CRM & Data** | HubSpot · Airtable · Google Sheets |
-| **Backend** | Django · Python · REST APIs · Webhooks |
-| **Infra** | Docker · PostgreSQL · Self-hosted n8n |
+| **Backend** | Django · Python · REST APIs .JavaScript · Webhooks |
+| **Infra** | Docker · PostgreSQL · MCP Server . Self-hosted n8n |
 
 </div>
 
