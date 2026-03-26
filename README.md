@@ -14,7 +14,7 @@
 
 ## What I Do
 
-I design and build **production-grade AI automation systems** that eliminate repetitive work, connect business tools, and put intelligent agents to work — 24/7, without supervision.
+I design and build **production-grade AI automation systems** that eliminate repetitive work, connect business tools, and put intelligent agents to work 24/7, without supervision.
 
 My focus is on **real business outcomes**: faster response times, higher lead conversion, fewer manual errors, and workflows that scale without growing your headcount.
 
