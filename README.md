@@ -124,7 +124,7 @@ You get clear documentation, clean workflow exports, and a system you can actual
 If you have a process that's eating your team's time, or an idea for an AI-powered product feature — let's talk.
 
 [![Upwork](https://img.shields.io/badge/Available%20on-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/evancechapuma)
-[![Email](https://img.shields.io/badge/Send%20an-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Send%20an-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:evancechapuma62@gmail.com)
 
 ---
 
