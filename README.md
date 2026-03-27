@@ -91,9 +91,9 @@ I work primarily with:
 
 <div align="center">
 
-![Evance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evancechapuma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44&icon_color=6fda44)
+![Evance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvanceChapuma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44&icon_color=6fda44)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evancechapuma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanceChapuma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44)
 
 </div>
 
