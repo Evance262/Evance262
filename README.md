@@ -45,42 +45,42 @@ I work primarily with:
 
 ## 🚀 Featured Projects
 
-### [Multi-Agent Google Review Responder](https://github.com/Evance262/automation-portfolio/tree/main/projects/01-google-review-responder))
+### [Multi-Agent Google Review Responder](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/01-google-review-responder))
 > Routes incoming Google reviews through a pipeline of specialized AI agents — a Negative Review Agent, Positive Review Agent, Revision Agent, and Text Classifier — to generate contextually appropriate, on-brand responses automatically.
 
 `n8n` `OpenAI` `Webhooks` `Multi-agent`
 
 ---
 
-### [WhatsApp Event Registration System](https://github.com/Evance262/automation-portfolio/tree/main/projects/06-whatsapp-event-registration)
+### [WhatsApp Event Registration System](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/06-whatsapp-event-registration)
 > End-to-end event registration via WhatsApp — handles conversational sign-up, payment screenshot verification using vision AI, bus seat assignment, and automated reminders. Built on n8n + Airtable + Twilio.
 
 `n8n` `Twilio` `Airtable` `Vision AI` `WhatsApp`
 
 ---
 
-### [Vapi Real Estate Booking Agent](https://github.com/Evance262/automation-portfolio/tree/main/projects/03-vapi-real-estate-booking)
+### [Vapi Real Estate Booking Agent](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/03-vapi-real-estate-booking)
 > An AI voice agent that handles inbound property inquiries, qualifies leads, and schedules viewings — with structured data extraction piped into a CRM via n8n webhooks.
 
 `Vapi` `n8n` `Voice AI` `CRM Integration`
 
 ---
 
-### [Multi-Agent Personal Assistant](https://github.com/Evance262/automation-portfolio/tree/main/projects/05-multi-agent-personal-assistant)
+### [Multi-Agent Personal Assistant](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/05-multi-agent-personal-assistant)
 > A self-hosted personal assistant that connects HubSpot, Gmail, Google Calendar, Twilio, and Telegram — triaging emails, scheduling meetings, sending SMS reminders, and surfacing CRM updates through a single Telegram interface.
 
 `n8n` `HubSpot` `Gmail` `Google Calendar` `Twilio` `Telegram`
 
 ---
 
-### [WhatsApp Lead Qualification Agent](https://github.com/Evance262/automation-portfolio/tree/main/projects/02-whatsapp-lead-agent)
+### [WhatsApp Lead Qualification Agent](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/02-whatsapp-lead-agent)
 > Conversational AI agent deployed on WhatsApp to engage inbound leads, qualify them with dynamic questions, and hand off warm leads to sales with a structured summary.
 
 `n8n` `WhatsApp` `OpenAI` `Lead Generation`
 
 ---
 
-### [Vapi Customer Support Agent](https://github.com/Evance262/automation-portfolio/tree/main/projects/04-vapi-customer-support)
+### [Vapi Customer Support Agent](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/04-vapi-customer-support)
 > Voice-based support agent with FAQ handling and escalation logic, integrated into a helpdesk workflow via webhook.
 
 `Vapi` `Voice AI` `n8n` `Customer Support`
@@ -91,9 +91,9 @@ I work primarily with:
 
 <div align="center">
 
-![Evance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evance262&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44&icon_color=6fda44)
+![Evance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evancechapuma&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44&icon_color=6fda44)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evance262&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evancechapuma&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6fda44)
 
 </div>
 
