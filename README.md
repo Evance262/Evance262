@@ -45,7 +45,7 @@ I work primarily with:
 
 ## 🚀 Featured Projects
 
-### [Multi-Agent Google Review Responder](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/01-google-review-responder))
+### [Multi-Agent Google Review Responder](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/01-google-review-responder)
 > Routes incoming Google reviews through a pipeline of specialized AI agents — a Negative Review Agent, Positive Review Agent, Revision Agent, and Text Classifier — to generate contextually appropriate, on-brand responses automatically.
 
 `n8n` `OpenAI` `Webhooks` `Multi-agent`
