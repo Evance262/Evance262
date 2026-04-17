@@ -45,6 +45,20 @@ I work primarily with:
 
 ## 🚀 Featured Projects
 
+### [AI Law Firm Receptionist — 8-Workflow Automation System](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/07-law-firm-receptionist)
+> A fully autonomous AI receptionist for law firms. An AI triage agent classifies every inbound enquiry by intent and urgency, then dispatches to specialist sub-workflows: client intake creates Clio contacts and matters, appointment scheduling sends click-to-book emails and auto-creates Zoom meetings, a parallel conflict-of-interest checker searches Clio, document generation drafts engagement letters, and billing pulls outstanding invoices into branded HTML summaries. Attorneys get Slack alerts for emergencies and an 8am morning digest of overnight messages.
+
+`n8n` `Claude Opus` `Clio API` `Google Calendar` `Gmail` `Zoom` `Slack` `Multi-workflow`
+
+---
+
+### [Weekly KPI Summary — Wellness Practice](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/08-hackensack-weekly-kpi)
+> Automated weekly business intelligence report delivered every Monday morning. Fetches three Airtable tables in parallel, runs JavaScript KPI aggregation (revenue, clients, hours, ad spend, week-over-week comparisons), passes data to Claude Sonnet for specific AI insights, renders a fully branded HTML email, and fires smart alerts when revenue drops or data gaps are detected.
+
+`n8n` `Airtable` `Claude Sonnet` `Gmail` `JavaScript`
+
+---
+
 ### [Multi-Agent Google Review Responder](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/01-google-review-responder)
 > Routes incoming Google reviews through a pipeline of specialized AI agents — a Negative Review Agent, Positive Review Agent, Revision Agent, and Text Classifier — to generate contextually appropriate, on-brand responses automatically.
 
