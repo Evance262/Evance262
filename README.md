@@ -59,6 +59,13 @@ I work primarily with:
 
 ---
 
+### [Real Estate — Lead-to-Close Automation](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/09-real-estate-lead-to-close)
+> Two-workflow pipeline covering the full real estate cycle. W1 uses Claude Opus to score inbound leads 0–100, routes qualified leads to ClickUp with a high-priority task and AI comment, sends a branded welcome email, and books a 30-minute discovery call in Google Calendar — all from a single webhook. W2 fires the moment a deal is marked Won: Claude Sonnet generates the complete client project plan, then the workflow provisions Drive folders and subfolders, seeds a ClickUp board with 3 lists and tasks, sends a branded client email and internal brief, and posts a Slack alert — in under 60 seconds, with full idempotency on re-runs.
+
+`n8n` `Claude Opus` `Claude Sonnet` `ClickUp` `Google Drive` `Google Calendar` `Gmail` `Slack` `Multi-workflow`
+
+---
+
 ### [Multi-Agent Google Review Responder](https://github.com/evancechapuma/automation-portfolio/tree/main/projects/01-google-review-responder)
 > Routes incoming Google reviews through a pipeline of specialized AI agents — a Negative Review Agent, Positive Review Agent, Revision Agent, and Text Classifier — to generate contextually appropriate, on-brand responses automatically.
 
